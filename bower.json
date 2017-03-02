@@ -1,0 +1,35 @@
+{
+  "name": "siisp",
+  "homepage": "https://github.com/seasyapp/mechanic-backoffice",
+  "description": "Proyecto para la secretaria de investigacion",
+  "main": "\\Web\\app\\index.html",
+  "keywords": [
+    "siisp",
+    "undav"
+  ],
+  "authors": [
+    "lucas casabone"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-animate": "^1.5.7",
+    "angular-aria": "^1.5.7",
+    "angular-material": "^1.0.9",
+    "angular-messages": "^1.5.7",
+    "firebase": "^3.1.0",
+    "angular-ui-router": "^0.3.1",
+    "angular-cookies": "^1.5.7",
+    "ng-file-upload": "^12.0.4",
+    "ng-file-upload-shim": "^12.0.4",
+    "angularjs-datepicker": "^2.1.12"
+  }
+}
